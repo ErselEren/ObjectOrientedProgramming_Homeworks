@@ -1,0 +1,55 @@
+---------------set1-----------------
+|Day : 31, Month : 1
+|Day : 14, Month : 9
+|Day : 8, Month : 11
+|Day : 14, Month : 4
+|Day : 25, Month : 7
+Set Printed
+
+1-ALIVE DAYOFYEAR OBJECTS : 5
+---------------set2-----------------
+|Day : 31, Month : 1
+|Day : 14, Month : 9
+|Day : 8, Month : 11
+|Day : 14, Month : 4
+|Day : 25, Month : 7
+Set Printed
+
+2-ALIVE DAYOFYEAR OBJECTS : 10
+---------------set2-----------------
+|Day : 31, Month : 1
+|Day : 14, Month : 9
+|Day : 14, Month : 4
+|Day : 25, Month : 7
+Set Printed
+
+3-ALIVE DAYOFYEAR OBJECTS : 9
+---------------set2-----------------
+|Day : 29, Month : 5
+|Day : 13, Month : 12
+|Day : 25, Month : 7
+|Day : 31, Month : 1
+|Day : 14, Month : 9
+|Day : 8, Month : 11
+|Day : 14, Month : 4
+Set Printed
+
+---------------set4-----------------
+|Day : 13, Month : 12
+|Day : 25, Month : 7
+|Day : 14, Month : 9
+|Day : 8, Month : 11
+|Day : 14, Month : 4
+Set Printed
+
+---------------set5-----------------
+|Day : 14, Month : 9
+|Day : 8, Month : 11
+|Day : 14, Month : 4
+|Day : 25, Month : 7
+Set Printed
+
+De Morgan rule is working!
+De Morgan rule is working!
+De Morgan rule is working!
+--------------------------------
